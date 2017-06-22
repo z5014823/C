@@ -1,5 +1,6 @@
-// integers that can't be stored in any C data type are represented in reverse order by linked lists
-// calculate any n for the tribonacci sequence where f(n) = 1 for n = 1, 2, 3
+// Find the nth Tribonacci number
+// f(1) = f(2) = f(3) = 1
+// Integers that can't be stored in any C data type are represented in reverse order by linked lists
 
 #include <stdio.h>
 #include <stdlib.h>
